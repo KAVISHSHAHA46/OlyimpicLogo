@@ -1,0 +1,10 @@
+.bodybackground{
+    background-image: url("https://5.imimg.com/data5/RA/PD/MY-46995586/color-pencils-500x500.jpg"); 
+    background-position: center;
+    background-size: cover;
+ }
+ #canvas1{
+     border-width: 10px;
+     border-style: groove;
+     background-color: white;
+ }
